@@ -1,0 +1,14 @@
+Materials::
+1. https://www.codeconquest.com/blog/top-50-websites-to-learn-mysql/
+   *  https://www.mysqltutorial.org
+2. https://www.tutorialspoint.com/nodejs/index.htm
+
+
+
+Youtube Videos::
+1. https://youtu.be/TlB_eWDSMt4
+2. https://www.youtube.com/watch?v=vJEO57B05Sg
+3. https://youtu.be/PYWS-4CXETw
+
+Examples::
+1. https://codesandbox.io/examples/package/@types/react-input-mask ( mask, multi-select )
